@@ -5,6 +5,10 @@ const Home = () => {
   return (
     <Fragment>
       <Navbar/>
+      <div className="">
+        
+      </div>
+
     </Fragment>
   )
 }
